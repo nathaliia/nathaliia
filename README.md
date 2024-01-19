@@ -3,7 +3,8 @@
 <h1>
     <a href="https://AilahDev.github.io/">
      </a>
-    <span>AilahDev</span>
+    <span>AilahDev 🦑</span>
 </h1>
 
-I am currently delving deeper into the field of technology through the course in Systems Analysis and Development. In the realm of programming, my focus is on frontend, blending my passion for arts and technology. Always in pursuit of both professional and personal growth.
+Estou me aprofundando na área de tecnologia através do curso de Análise e Desenvolvimento de Sistemas.
+No universo da programação, meu foco está no frontend, combinando minha paixão por artes e tecnologia. Sempre em busca de crescimento profissional e pessoal.
