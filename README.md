@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=18&left=true&vCenter=true&width=1000&lines=Welcome!;Ailah+here+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=22&left=true&vCenter=true&width=1000&lines=Welcome!;Ailah+here+:%29)](https://git.io/typing-svg)
 <img align="right" alt="Technology illustrations by Storyset - https://storyset.com/technology" height="380" src="https://github.com/AilahDev/AilahDev/assets/156714730/20b1ee07-2b42-490a-bae4-692f27f88866">
  
 <h1>
