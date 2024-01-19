@@ -13,7 +13,7 @@ No universo da programação, meu foco está no frontend, combinando minha paix�
 <h1>
 <h3 align="left">Connect with me</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF6A7E&color:FFF)](https://www.linkedin.com/in/elidianaandrade/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF6A7E&color:FFF)](https://www.linkedin.com/in/nathaliia/)
 
 <h1></h1>
 
