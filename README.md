@@ -18,8 +18,8 @@ No universo da programação, meu foco está no frontend, combinando minha paix�
 <h1></h1>
 
 <div align="left">  
-  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=AilahDev&show_icons=true&count_private=true&hide_border=true&title_color=FF6A7E&icon_color=FF6A7E&text_color=c9d1d9&bg_color=0d1117" alt="AilahDev github stats" /> 
-  <img width="41%" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AilahDev&layout=compact&hide_border=true&title_color=FF6A7E&text_color=FF6A7E&bg_color=0d1117" />
+  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=AilahDev&show_icons=true&count_private=true&hide_border=true&title_color=FF6A7E&icon_color=3EA3BF&text_color=c9d1d9&bg_color=0d1117" alt="AilahDev github stats" /> 
+  <img width="41%" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AilahDev&layout=compact&hide_border=true&title_color=FF6A7E&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
 <details align="left">
