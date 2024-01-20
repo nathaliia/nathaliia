@@ -23,6 +23,11 @@
 <details align="left">
   <summary></summary> 
   <small>
-    - Work illustrations by Storyset <a href="https://storyset.com/work"> (edited by author)</a>
+ 
+  - Badges by <a href="https://shields.io/">shields.io</a><br>
+  - Typing by <a href="https://github.com/DenverCoder1/readme-typing-svg/">typing-svg</a><br>
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  - Work illustrations by <a href="https://storyset.com/work"> storyset.com</a> (edited by author)
+ 
   </small>
 </details>
