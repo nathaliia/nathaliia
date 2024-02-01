@@ -13,7 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF6A7E&color:FFF)](https://www.linkedin.com/in/nathaliia/)
 
-<hr><br></hr>
+<hr></hr><br>
 
 <div align="left">  
   <img width="50%" height="180px" src="https://github-readme-stats.vercel.app/api?username=AilahDev&show_icons=true&count_private=true&hide_border=true&title_color=FF6A7E&icon_color=3EA3BF&text_color=c9d1d9&bg_color=0d1117" alt="AilahDev github stats" /> 
@@ -22,12 +22,10 @@
 
 <details align="left">
   <summary></summary> 
-  <small>
- 
+  <small> 
   - Badges by <a href="https://shields.io/">shields.io</a><br>
   - Typing by <a href="https://github.com/DenverCoder1/readme-typing-svg/">typing-svg</a><br>
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a><br>
   - Work illustrations by <a href="https://storyset.com/work"> storyset.com</a> (edited by author)
- 
   </small>
 </details>
