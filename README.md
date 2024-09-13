@@ -7,7 +7,7 @@
     <span>AilahDev</span>
 </h1>
 
-<p align="left">Estou me aprofundando na área de tecnologia através do curso de Análise e Desenvolvimento de Sistemas. No universo da programação, meu foco está no frontend, combinando minha paixão por artes e tecnologia. Sempre em busca de crescimento profissional e pessoal.</p>
+<p align="left">Estou me aprofundando na área de tecnologia através do curso de Análise e Desenvolvimento de Sistemas. <br>Com experiência em Query SQL em bancos de dados SQLServer e Oracle DataBase, busco estágio em área de dados para aplicar meus conhecimentos e desenvolver novas habilidades. <br>Estou sempre em busca de crescimento profissional e pessoal.</p>
 
 <h3 align="left">Connect with me:</h3>
 
