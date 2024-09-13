@@ -3,8 +3,8 @@
 <img align="right" alt="Work illustrations by Storyset" height="305" src="https://github.com/AilahDev/AilahDev/assets/156714730/47619c33-9119-4737-ab6d-ef8ee9adb5ae">
 
 <h1>
-    <a href="https://AilahDev.github.io/"></a>
-    <span>AilahDev</span>
+    <a href="https://github.com/nathaliia"></a>
+    <span>Nathália Martins</span>
 </h1>
 
 <p align="left">✨Desenvolvedora em formação com foco em banco de dados. Cursando Análise e Desenvolvimento de Sistemas. <br>⚙️ Experiência com SQL Server e Oracle.  Tenho grande interesse em colaborar em projetos e aprender com outros desenvolvedores.</p>
