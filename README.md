@@ -7,9 +7,9 @@
     <span>AilahDev</span>
 </h1>
 
-<p align="left">Estou me aprofundando na área de tecnologia através do curso de Análise e Desenvolvimento de Sistemas. <br>Com experiência em Query SQL em bancos de dados SQLServer e Oracle DataBase, busco estágio em área de dados para aplicar meus conhecimentos e desenvolver novas habilidades. <br>Estou sempre em busca de crescimento profissional e pessoal.</p>
+<p align="left">✨Desenvolvedora em formação com foco em banco de dados. Cursando Análise e Desenvolvimento de Sistemas. <br>⚙️ Experiência com SQL Server e Oracle.  Tenho grande interesse em colaborar em projetos e aprender com outros desenvolvedores.</p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Onde me encontrar:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF6A7E&color:FFF)](https://www.linkedin.com/in/nathaliia/)
 
